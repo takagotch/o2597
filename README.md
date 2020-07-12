@@ -23,8 +23,6 @@ HTML Example
 ```
 
 ```
-```
-
 Random from a specific user
 To choose a random photo from a specific user, the format follows that of selecting from a collection.
 
@@ -94,3 +92,11 @@ Example
 https://source.unsplash.com/WLUHO9A_xik/1600x900
 HTML Example
 <img src="https://source.unsplash.com/WLUHO9A_xik/1600x900">
+```
+
+
+
+
+
+
+
